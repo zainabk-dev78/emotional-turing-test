@@ -1,3 +1,14 @@
+#1
+User: I feel empty.
+AI: I’m here. We don’t have to fix anything right now.
+
+User: I think I’m just tired of pretending I’m okay.
+AI: That sounds like sadness… or maybe exhaustion. Tell me if I’m off.
+
+User: It’s exhaustion.
+AI: Thank you for correcting me. I’ll slow down. We can stay here.
+
+#2
 User: I feel empty lately.
 AI: I'm here. You don't have to explain everything right now.
 
@@ -6,3 +17,6 @@ AI: That sounds like loneliness... or maybe numbness. Tell me if I'm wrong.
 
 User: Yeah, more like numb.
 AI: Thank you for correcting me. I'll slow down. We can sit with that feeling.
+
+
+
