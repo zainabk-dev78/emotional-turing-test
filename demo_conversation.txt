@@ -8,7 +8,7 @@ AI: That sounds like sadness… or maybe exhaustion. Tell me if I’m off.
 User: It’s exhaustion.
 AI: Thank you for correcting me. I’ll slow down. We can stay here.
 
-#2
+#2 
 User: I feel empty lately.
 AI: I'm here. You don't have to explain everything right now.
 
